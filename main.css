@@ -32,6 +32,7 @@
   text-decoration: none;
   font-size: 28px;
   line-height: 44px;
+  color: black;
 }
 
 .title-wrapper {
@@ -81,7 +82,7 @@ body {
   background-image: url("img/multistep-wizard.png");
 }
 .navbar {
-  background-color: #e8e67f;
+  background-color: #cacac1;
 }
 .title-homepage {
   color: white;
