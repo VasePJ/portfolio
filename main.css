@@ -21,7 +21,8 @@
  padding: 10px;
 }
 .navbar-brand {
-  font-family: "Cabin Sketch", cursive;
+  font-family: 'Roboto',
+  sans-serif;
 }
 
 .element-title {
@@ -38,7 +39,8 @@
   text-align: center;
 }
 body {
-  font-family: "Roboto Slab", serif;
+  font-family: 'Roboto',
+  sans-serif;
 
   background-color: #ededed;
 }
@@ -86,7 +88,6 @@ body {
 }
 .element-wrapper a {
   text-decoration: none;
-  /* padding: 25px; */
 }
 .connect-wrapper {
   font-size: 18px;
