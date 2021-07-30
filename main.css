@@ -20,7 +20,7 @@
 .wrapper div{
  padding: 10px;
 }
-.navbar-brand {
+.navbar-default .navbar-brand {
   font-family: 'Roboto',
   sans-serif;
   color: black;
