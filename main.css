@@ -17,6 +17,9 @@
 .wrapper {
   margin-top: 15px;
 }
+.wrapper div{
+ padding: 10px;
+}
 .navbar-brand {
   font-family: "Cabin Sketch", cursive;
 }
@@ -26,6 +29,8 @@
   vertical-align: middle;
   text-align: center;
   text-decoration: none;
+  font-size: 28px;
+  line-height: 44px;
 }
 
 .title-wrapper {
@@ -47,11 +52,11 @@ body {
 }
 
 .project-two {
-  background-image: url("img/projectTwo.png");
+  background-image: url("img/bikes-website.png");
 }
 
 .project-three {
-  background-image: url("img/projectThree.png");
+  background-image: url("img/mobilitas-web.png");
 }
 
 .project-four {
@@ -64,6 +69,15 @@ body {
 .project-six {
   background-image: url("img/projectSix.png");
 }
+.project-seven {
+  background-image: url("img/artists-app.png");
+}
+.project-eight {
+  background-image: url("img/growth-and-lifetime-calculator.png");
+}
+.project-nine {
+  background-image: url("img/multistep-wizard.png");
+}
 .navbar {
   background-color: #e8e67f;
 }
@@ -72,6 +86,7 @@ body {
 }
 .element-wrapper a {
   text-decoration: none;
+  /* padding: 25px; */
 }
 .connect-wrapper {
   font-size: 18px;
