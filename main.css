@@ -23,6 +23,8 @@
 .navbar-brand {
   font-family: 'Roboto',
   sans-serif;
+  color: black;
+  font-weight: 500;
 }
 
 .element-title {
