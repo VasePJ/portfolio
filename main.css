@@ -1,0 +1,96 @@
+.element {
+  border: 1px solid black;
+  padding: 15px;
+  min-height: 250px;
+  display: table;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: white 5px solid;
+  -webkit-box-shadow: 0px 0px 18px -3px rgba(0, 0, 0, 0.23);
+  -moz-box-shadow: 0px 0px 18px -3px rgba(0, 0, 0, 0.23);
+  box-shadow: 0px 0px 18px -3px rgba(0, 0, 0, 0.23);
+  background-color: #889bdb;
+}
+
+.wrapper {
+  margin-top: 15px;
+}
+.navbar-brand {
+  font-family: "Cabin Sketch", cursive;
+}
+
+.element-title {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+}
+
+.title-wrapper {
+  min-height: 50px;
+  text-align: center;
+}
+body {
+  font-family: "Roboto Slab", serif;
+
+  background-color: #ededed;
+}
+.text-wrapper {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.project-one {
+  background-image: url("img/projectOne.png");
+}
+
+.project-two {
+  background-image: url("img/projectTwo.png");
+}
+
+.project-three {
+  background-image: url("img/projectThree.png");
+}
+
+.project-four {
+  background-image: url("img/projectFour.png");
+}
+
+.project-five {
+  background-image: url("img/projectFive.png");
+}
+.project-six {
+  background-image: url("img/projectSix.png");
+}
+.navbar {
+  background-color: #e8e67f;
+}
+.title-homepage {
+  color: white;
+}
+.element-wrapper a {
+  text-decoration: none;
+}
+.connect-wrapper {
+  font-size: 18px;
+  text-align: center;
+}
+.element-homepage {
+  min-height: 400px;
+}
+.footer {
+  text-align: right;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.about-me {
+  background-image: url("img/aboutme.jpg");
+}
+.projects {
+  background-image: url("img/projects.png");
+}
+.contact {
+  background-image: url("img/contact.jpg");
+}
